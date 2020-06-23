@@ -1,2 +1,2 @@
 # Title for the page
-A website for my favourite character is currently being built here!
+This is a description of the page or if you might like to think of it that way, its character. Actually this page is rather plain and simple, but some people may find this charming. Furthermore this is for testing purposes only.
